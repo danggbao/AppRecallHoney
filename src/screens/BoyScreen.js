@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { View } from 'react-native'
+import { View, Text } from 'react-native'
 
 const BoyScreen = () => {
     return (
@@ -8,3 +8,5 @@ const BoyScreen = () => {
         </View>
     )
 }
+
+export default BoyScreen;
